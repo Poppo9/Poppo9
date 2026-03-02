@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building<br>Enterprise-grade AI systems: document intelligence, LLM workflows, traceable data pipelines.<br><br>🧠 Interested in<br>LLM evaluation, retrieval systems, entity resolution, AI that survives real-world data.<br><br>⚙️ Working with<br>Python • NLP • Azure • FastAPI • Streamlit • LangChain • SQL • Docker<br><br>💬 Ask me about<br>Turning messy documents into structured knowledge.<br><br>⚡ Background<br>Bioinformatics → AI. I treat models like experiments, not magic.
+🔭 Building<br>Enterprise-grade AI systems: document intelligence, LLM workflows, traceable data pipelines.<br><br>🧠 Interested in<br>LLM evaluation, retrieval systems, entity resolution, AI that survives real-world data.<br><br>💬 Ask me about<br>Turning messy documents into structured knowledge.<br><br>⚡ Background<br>Bioinformatics → AI. I treat models like experiments, not magic.
 
 
 # 💻 Tech Stack:
